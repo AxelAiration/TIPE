@@ -13,7 +13,7 @@ Il peut également être utilisé par les coachs pour noter les différents perf
 1. Informatique théorique
 2. Algèbre linéaire et Géométrie
 3. Informatique pratique
-(4. Mécanique)
+4. (Mécanique)
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
