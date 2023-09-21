@@ -1,2 +1,5 @@
 seaborn : statistical data visualization
 https://seaborn.pydata.org/api.html
+
+Numpy : gestion de tableau et de fonction mathématiques
+https://numpy.org/doc/stable/reference/index.html
